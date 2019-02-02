@@ -1,8 +1,8 @@
 package com.patterns.factory_pattern.ex2;
 
-public class Square extends Shape{
+public class Circle extends Shape{
 	@Override
 	public void draw() {
-		System.out.println(" Square Class");
+		System.out.println(" Circle Class");
 	}
 }

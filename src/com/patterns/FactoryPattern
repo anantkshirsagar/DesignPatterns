@@ -1,0 +1,11 @@
+Factory Design Pattern:
+
+Advantages:
+
+1) Abstraction:
+		Abstraction is achieved through factory design pattern. Because main implementation 
+		is hidden from the end user.
+2) Loosely coupled code:
+3) Removes the burden from client to Factory.
+4) Easy to extends:
+		You can easily extend the code and do not need to change the existing code. 
