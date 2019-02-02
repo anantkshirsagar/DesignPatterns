@@ -1,0 +1,6 @@
+1) Factory Design Pattern:
+	In factory design pattern package structure.
+	com.beans => Here, you can write subclasses, interfaces, abstract classes and super classes.
+	com.factory => Here, you have to write the factory related classes and methods.
+
+	
